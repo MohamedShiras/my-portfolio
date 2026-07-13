@@ -1181,7 +1181,8 @@ h1 {
 
 .card-links {
     display: flex;
-    gap: 15px;
+    gap: 10px;
+    width: auto;
 }
 
 .btn-sm {
