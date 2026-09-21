@@ -1,6 +1,7 @@
 {
-    "name": "Mohamed Shiras Portfolio",
+    "name": "Mohamed Shiras — Software Developer in Galle & Colombo, Sri Lanka",
     "short_name": "Shiras Dev",
+    "description": "Portfolio of Mohamed Shiras, a top software developer based in Galle and Colombo, Sri Lanka. Specializing in Flutter, Java, Python, Web Development, and AI.",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -15,5 +16,7 @@
     ],
     "theme_color": "#d500f9",
     "background_color": "#050005",
-    "display": "standalone"
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/"
 }
